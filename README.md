@@ -1,0 +1,2 @@
+# Con.log
+Everything code!!!
